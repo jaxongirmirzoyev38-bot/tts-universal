@@ -1,0 +1,50 @@
+voices:
+  - id: "uz_male_dilshod"
+    name: "Dilshod"
+    language: "uz"
+    gender: "male"
+    accent: "Tashkent Standard"
+    age: 32
+    timbre: "Warm, authoritative, articulate"
+    gemini_equivalent: "Fenrir"
+    sample_rate: 24000
+
+  - id: "uz_female_laylo"
+    name: "Laylo"
+    language: "uz"
+    gender: "female"
+    accent: "Tashkent Standard"
+    age: 26
+    timbre: "Clear, melodious, friendly"
+    gemini_equivalent: "Kore"
+    sample_rate: 24000
+
+  - id: "tr_male_emre"
+    name: "Emre"
+    language: "tr"
+    gender: "male"
+    accent: "Istanbul"
+    age: 29
+    timbre: "Resonant, natural, modern"
+    gemini_equivalent: "Puck"
+    sample_rate: 24000
+
+  - id: "tr_female_aylin"
+    name: "Aylin"
+    language: "tr"
+    gender: "female"
+    accent: "Istanbul"
+    age: 27
+    timbre: "Soft, expressive, confident"
+    gemini_equivalent: "Zephyr"
+    sample_rate: 24000
+
+  - id: "ru_female_anna"
+    name: "Anna"
+    language: "ru"
+    gender: "female"
+    accent: "Standard Moscow"
+    age: 30
+    timbre: "Professional, crisp, smooth"
+    gemini_equivalent: "Charon"
+    sample_rate: 24000

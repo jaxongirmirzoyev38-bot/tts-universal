@@ -1,0 +1,6 @@
+{
+  "name": "Universal TTS Studio",
+  "description": "Dunyodagi barcha tillar uchun 0 dan o'qitiladigan universal ochiq kodli TTS tizimi, Gemini 3.8 Flash TTS integratsiyasi, ovoz klonlash va to'liq GitHub kod bazasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
